@@ -2,7 +2,8 @@ package oop;
 
 public class Greeter {
 	
-	public Greeter() {
+	public Greeter() 
+	{
 
 	}
 	
@@ -10,4 +11,5 @@ public class Greeter {
 	{
 		System.out.print("Hello");
 	}
+	
 	}
