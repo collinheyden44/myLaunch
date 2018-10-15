@@ -3,6 +3,7 @@ package oop;
 import java.util.Scanner;
 
 public class Room {
+	Scanner input = new Scanner(System.in);
 	
 	public Room() {
 		
@@ -14,7 +15,6 @@ public class Room {
 		double length = -999;
 		double height = -999;
 		double area = -999;
-		Scanner input = new Scanner(System.in);
 		System.out.println("What is the length of the wall? (inches)");
 		length = input.nextDouble();
 		System.out.println("What is the height of the wall? (inches)");
