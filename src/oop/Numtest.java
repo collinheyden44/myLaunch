@@ -6,6 +6,7 @@ public class Numtest {
 		
 		Number bob = new Number();
 		bob.sayNumber(3);
+		bob.returnRoundUp(4.9);
 	}
 
 }
