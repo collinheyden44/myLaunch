@@ -1,8 +1,8 @@
 package oop;
 
-public class Greeter {
+public class GreeterOld {
 	
-	public Greeter() {
+	public GreeterOld() {
 			
 	}
 	
